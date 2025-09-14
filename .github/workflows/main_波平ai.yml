@@ -58,4 +58,4 @@ jobs:
         with:
           app-name: '波平AI'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A3463A0C71AD4EE4A27390CF2F293C62 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_07BD0AFC545544F89115589EF9804C14 }}
